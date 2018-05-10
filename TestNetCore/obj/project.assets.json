@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\TestProject\\TestNetCore\\TestNetCore\\TestNetCore.csproj",
+      "projectUniqueName": "C:\\Projects\\TestProject\\TestRepository\\TestNetCore\\TestNetCore.csproj",
       "projectName": "TestNetCore",
-      "projectPath": "C:\\Projects\\TestProject\\TestNetCore\\TestNetCore\\TestNetCore.csproj",
+      "projectPath": "C:\\Projects\\TestProject\\TestRepository\\TestNetCore\\TestNetCore.csproj",
       "packagesPath": "C:\\Users\\niteo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\TestProject\\TestNetCore\\TestNetCore\\obj\\",
+      "outputPath": "C:\\Projects\\TestProject\\TestRepository\\TestNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
